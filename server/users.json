@@ -1,0 +1,76 @@
+{
+  "users": [
+    { "id": 2, "email": "test@gmail.com", "password": "123456" },
+    {
+      "id": 3,
+      "email": "nirmalaprachande6091@gmail.com",
+      "password": "Nemo-5431"
+    },
+    { "id": 4, "email": "tester1@gmail.com", "password": "Nemo-5431" },
+    {
+      "id": 5,
+      "email": "aliemin@gmail.com",
+      "password": "$2b$10$zDBKZg3.wO3mzoiwZhqsE.yGg78xHWWPzG02Dm8H1jPDrRXDF6XGm"
+    },
+    {
+      "id": 6,
+      "email": "nemo-prachande@gmail.com",
+      "password": "$2b$10$7eIVtx3HvJpW4hX13/k8Z.8C/zG339Tb7hFASNHDyV7c7eXwXZtue"
+    },
+    {
+      "id": 7,
+      "email": "akshaynaik@gmail.com",
+      "password": "$2b$10$fPqGB.2HMh.yN9XRo/O2NuP9o8IXu1M84IHkvk1P1aHlzLUacF7Li"
+    },
+    {
+      "id": 8,
+      "email": "rohitsankpal@gmail.com",
+      "password": "$2b$10$1cTM74Jb791FnjBKxr58Mec1.S9uzDHqmyRvwmhap7tk7loZJIUSK"
+    },
+    {
+      "id": 9,
+      "email": "nirmalaprachande6091@gmail.comkkk",
+      "password": "$2b$10$AL1owsgvAU56v7N4m9vfx.aNHb0SoGFYfDh7Z4cIIiVBUzF.hkTpm"
+    },
+    {
+      "id": 10,
+      "email": "tester5431@gmail.com",
+      "password": "$2b$10$Di7feagRzehldOJalujsieZMm.9QrNGCnKkD.cmYzKiuqjStTfWdq"
+    },
+    {
+      "id": 11,
+      "email": "rahulbandodkar@gmail.com",
+      "password": "$2b$10$B1mNgW9Q52LGG78j.OxcA.e.Wp9.hYONHI04p9dra9lKx0mE.OOGi"
+    },
+    {
+      "id": 12,
+      "email": "abc@gmail.com",
+      "password": "$2b$10$a1GyxHpvdi847W2iLH2F9eVS5PHgTct6TkudLxbBMTVkxANov3ly6"
+    },
+    {
+      "id": 13,
+      "email": "sjinnovation@gmail.com",
+      "password": "$2b$10$77f3/dlsVgZtrEfAXDFNU.UbZTlbJmMP2xNLqQD0e/WDWWikyhNki"
+    },
+    {
+      "id": 14,
+      "email": "nirmalaprachande6091@gmail.com54367",
+      "password": "$2b$10$PpcKVS6uMT4Da4cabMzVW.8U/6hb.dbcuCoIop57KvesO1.6vIk4u"
+    },
+    {
+      "id": 15,
+      "email": "tester@gmail.com",
+      "password": "$2b$10$G5wlsQFYD3FxZwLYPXsmJu3pwandfLe/GbfTss0ankAsOgFflpDJK"
+    },
+    {
+      "id": 16,
+      "email": "tester31@gmail.com",
+      "password": "$2b$10$Cvai7JDS8xt8UhRBZ0VJpeblqfOiwtDzm3qXnw4I3WgKivFX5z/WO"
+    },
+    {
+      "id": 17,
+      "email": "a-b-c@gmail.com",
+      "password": "$2b$10$092xKr8Eo7fV2AHc.bQmhueFFKpOmbQfiWQFFuPbgtw2rXxYlHcre"
+    }
+  ]
+}
